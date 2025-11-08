@@ -2,16 +2,9 @@
 
 Welcome to the **All-in-One Hacking Toolkit** — the ultimate toolkit designed for ethical hackers, penetration testers, and cybersecurity professionals. Whether you're just getting started or an advanced user, this toolkit offers everything you need for network analysis, vulnerability assessments, exploitation, and more.
 
-## Pro Version of HackingTool
-Check out the **Pro Version** of the HackingToolkit for even more powerful features and tools:  
-[Get the Pro Version here](https://topmate.io/codingranjith/1241494)
-
-![Hacking Toolkit](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/main.jpg)
 
 ---
 
-### Install Kali Linux on Windows 10 Without VirtualBox
-Watch the full tutorial on [YouTube](https://www.youtube.com/@AutoGPT_Live) to install **Kali Linux** directly on your Windows 10 system without the need for VirtualBox or other virtual machines!
 
 ---
 
@@ -77,7 +70,6 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Anonymously Hiding Tools 
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h0.jpg" alt="Anonymously Hiding Tools"/>
 
 - [Anonmously Surf](https://github.com/Und3rf10w/kali-anonsurf)
 - [Multitor](https://github.com/trimstray/multitor)
@@ -88,7 +80,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Information Gathering Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h1.jpg" alt="Information gathering tools"/>
+
 
 - [Network Map (nmap)](https://github.com/nmap/nmap)
 - [Dracnmap](https://github.com/Screetsec/Dracnmap)
@@ -113,7 +105,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Wordlist Generator
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h2.jpg" alt="Wordlist Generator"/>
+
 
 - [Cupp](https://github.com/Mebus/cupp.git)
 - [WordlistCreator](https://github.com/Z4nzu/wlcreator)
@@ -138,7 +130,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### SQL Injection Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h4.jpg" alt="SQL Injection Tools"/>
+
 
 - [Sqlmap tool](https://github.com/sqlmapproject/sqlmap)
 - [NoSqlMap](https://github.com/codingo/NoSQLMap)
@@ -151,7 +143,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Phishing Attack Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h5.jpg" alt="Phishing Attack Tools"/>
+
 
 - [Setoolkit](https://github.com/trustedsec/social-engineer-toolkit)
 - [SocialFish](https://github.com/UndeadSec/SocialFish)
@@ -166,7 +158,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Web Attack Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h6.jpg" alt="Web Attack Tools"/>
+
 
 - [Web2Attack](https://github.com/santatic/web2attack)
 - Skipfish
@@ -179,7 +171,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Post Exploitation Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h7.jpg" alt="Post Exploitation Tools"/>
+
 
 - [Vegile - Ghost In The Shell](https://github.com/Screetsec/Vegile)
 - [Chrome Keylogger](https://github.com/UndeadSec/HeraKeylogger)
@@ -187,7 +179,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Forensic Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h8.jpg" alt="Forensic Tools"/>
+
 
 - Autopsy
 - Wireshark
@@ -198,7 +190,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Payload Creation Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h9.jpg" alt="Payload Creation Tools"/>
+
 
 - [The FatRat](https://github.com/Screetsec/TheFatRat)
 - [Brutal](https://github.com/Screetsec/Brutal)
@@ -212,7 +204,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Exploit Framework
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h10.jpg" alt="Exploit Framework"/>
+
 
 - [RouterSploit](https://github.com/threat9/routersploit)
 - [WebSploit](https://github.com/The404Hacking/websploit )
@@ -222,7 +214,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Reverse Engineering Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h11.jpg" alt="Reverse Engineering Tools"/>
+
 
 - [Androguard](https://github.com/androguard/androguard )
 - [Apk2Gold](https://github.com/lxdvs/apk2gold )
@@ -231,7 +223,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### DDOS Attack Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h12.jpg" alt="DDOS Attack Tools"/>
+
 
 - SlowLoris
 - [Asyncrone | Multifunction SYN Flood DDoS Weapon](https://github.com/fatihsnsy/aSYNcrone)
@@ -241,7 +233,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Remote Administrator Tools (RAT)
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h.13jpg" alt="Remote Administrator Tools"/>
+
 
 - [Stitch](https://github.com/nathanlopez/Stitch)
 - [Pyshell](https://github.com/knassar702/pyshell)
@@ -249,7 +241,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### XSS Attack Tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h14.jpg" alt="XSS Attack Tools"/>
+
 
 - [DalFox(Finder of XSS)](https://github.com/hahwul/dalfox)
 - [XSS Payload Generator](https://github.com/capture0x/XSS-LOADER.git)
@@ -265,7 +257,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Steganograhy tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h15.jpg" alt="Steganograhy tools"/>
+
 
 - SteganoHide
 - StegnoCracker
@@ -275,7 +267,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 ### Other tools
 
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h16.jpg" alt="Other tools"/>
+
 
 #### SocialMedia Bruteforce
 - [Instagram Attack](https://github.com/chinoogawa/instaBrute)
